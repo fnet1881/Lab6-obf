@@ -1,0 +1,7 @@
+Delete_comments=1
+Add_gurbage_functions=1
+Add_gurbage_cycles=1
+Add_gurbage_vars=1
+Shake_Funcs=1
+Rename=1
+Del_spaces=0
